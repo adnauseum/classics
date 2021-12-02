@@ -26,3 +26,5 @@ This is a repo tracking my progress through the classics of Western culture via 
 | (👇 These were my fun readings for winter break) | ☦️    |
 | Epic of Gilgamesh                               | 📚    |
 | Plato: Protagoras                               | 📚    |
+
+## Spring 2022
