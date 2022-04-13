@@ -31,8 +31,8 @@ This is a repo tracking my progress through the classics of Western culture via 
 
 | Work                          | Read |
 | ----------------------------- | ---- |
-| Plato: Parmenides             | 📖   |
-| Plato: Theaetetus             | 📖   |
+| Plato: Parmenides             | ✅   |
+| Plato: Theaetetus             | ✅   |
 | Plato: Sophist                | 📖   |
 | Aristotle: Nicomachean Ethics | 📖   |
 | Aristotle: Politics           | 📖   |
