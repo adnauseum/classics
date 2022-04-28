@@ -33,7 +33,7 @@ This is a repo tracking my progress through the classics of Western culture via 
 | ----------------------------- | ---- |
 | Plato: Parmenides             | ✅   |
 | Plato: Theaetetus             | ✅   |
-| Plato: Sophist                | 📖   |
+| Plato: Sophist                | ✅   |
 | Aristotle: Nicomachean Ethics | 📖   |
 | Aristotle: Politics           | 📖   |
 | Sophocles: Oedipus Tyrannus   | 📖   |
