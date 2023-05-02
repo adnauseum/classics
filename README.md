@@ -32,7 +32,7 @@
 | Aristotle: Nicomachean Ethics | ✅   |
 | Aristotle: Politics           | ✅   |
 | Plato: Euthyphro              | ✅   |
-| Sophocles: Oedipus Tyrannus   | 📖   |
+| Sophocles: Oedipus Tyrannus   | ✅   |
 | Sophocles: Oedipus at Colonus | 📖   |
 | Sophocles: Antigone           | 📖   |
 | Sophocles: Philoctetes        | 📖   |
