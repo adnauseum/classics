@@ -34,7 +34,7 @@
 | Plato: Euthyphro              | ✅   |
 | Sophocles: Oedipus Tyrannus   | ✅   |
 | Sophocles: Oedipus at Colonus | ✅   |
-| Sophocles: Antigone           | 📖   |
+| Sophocles: Antigone           | ✅   |
 | Sophocles: Philoctetes        | 📖   |
 | Aristotle: Physics            | 📖   |
 | Aristotle: Metaphysics        | 📖   |
