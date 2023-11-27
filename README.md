@@ -35,7 +35,7 @@
 | Sophocles: Oedipus Tyrannus   | ✅   |
 | Sophocles: Oedipus at Colonus | ✅   |
 | Sophocles: Antigone           | ✅   |
-| Sophocles: Philoctetes        | 📖   |
+| Sophocles: Philoctetes        | ✅   |
 | Aristotle: Physics            | 📖   |
 | Aristotle: Metaphysics        | 📖   |
 | Euripides: Medea              | 📖   |
